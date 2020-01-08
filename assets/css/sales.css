@@ -13,6 +13,7 @@ header, section {
     position: fixed;
     text-align: center;
     width: 560px;
+    background-color: #fff;
 }
 
 section {
@@ -24,4 +25,10 @@ section {
     padding: 10px;
 }
 
+main {
+    padding: 370px 18px 10px;
+}
 
+.thumb {
+    height: 70px;
+}
