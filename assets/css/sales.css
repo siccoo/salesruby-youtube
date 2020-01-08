@@ -9,14 +9,19 @@ body {
     margin: 0 auto;
 }
 
-header {
+header, section {
     position: fixed;
     text-align: center;
     width: 560px;
 }
 
+section {
+    top: 80px;
+}
+
 .youtube-logo {
     width: 120px;
+    padding: 10px;
 }
 
 
