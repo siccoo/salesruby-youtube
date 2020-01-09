@@ -11,7 +11,7 @@ body {
 
 .container {
     width: 560px;
-    height: 150vh;
+    height: 160vh;
     background-color: #fff;
     margin: 0 auto;
 }
@@ -42,6 +42,10 @@ article {
     padding: 8px 15px;
 }
 
+article:hover {
+    border: 2px solid #FF0000;
+}
+
 h4 p {
     padding: 0px;
     margin: 0px;
@@ -58,3 +62,6 @@ p {
     height: 90px;
 }
 
+.details {
+    padding: 8px 22px;
+}
